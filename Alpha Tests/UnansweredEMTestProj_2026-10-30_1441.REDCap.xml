@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ODM xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:redcap="https://projectredcap.org" xsi:schemaLocation="http://www.cdisc.org/ns/odm/v1.3 schema/odm/ODM1-3-1.xsd" ODMVersion="1.3.1" FileOID="000-00-0000" FileType="Snapshot" Description="Unanswered EM Test Project" AsOfDateTime="2026-10-30T14:41:13" CreationDateTime="2026-10-30T14:41:13" SourceSystem="REDCap" SourceSystemVersion="16.0.53">
+<Study OID="Project.UnansweredEMTestProject">
+<GlobalVariables>
+	<StudyName>Unanswered EM Test Project</StudyName>
+	<StudyDescription>This file contains the metadata, events, and data for REDCap project "Unanswered EM Test Project".</StudyDescription>
+	<ProtocolName>Unanswered EM Test Project</ProtocolName>
+	<redcap:RecordAutonumberingEnabled>1</redcap:RecordAutonumberingEnabled>
+	<redcap:CustomRecordLabel></redcap:CustomRecordLabel>
+	<redcap:SecondaryUniqueField></redcap:SecondaryUniqueField>
+	<redcap:SecondaryUniqueFieldDisplayValue>1</redcap:SecondaryUniqueFieldDisplayValue>
+	<redcap:SecondaryUniqueFieldDisplayLabel>1</redcap:SecondaryUniqueFieldDisplayLabel>
+	<redcap:SchedulingEnabled>0</redcap:SchedulingEnabled>
+	<redcap:SurveysEnabled>1</redcap:SurveysEnabled>
+	<redcap:SurveyInvitationEmailField></redcap:SurveyInvitationEmailField>
+	<redcap:SurveyParticipantIdentifiers>0</redcap:SurveyParticipantIdentifiers>
+	<redcap:RandomizationEnabled>0</redcap:RandomizationEnabled>
+	<redcap:DisplayTodayNowButton>1</redcap:DisplayTodayNowButton>
+	<redcap:PreventBranchingEraseValues>0</redcap:PreventBranchingEraseValues>
+	<redcap:RequireChangeReason>0</redcap:RequireChangeReason>
+	<redcap:DataHistoryPopup>1</redcap:DataHistoryPopup>
+	<redcap:OrderRecordsByField></redcap:OrderRecordsByField>
+	<redcap:taskCompleteStatus>2</redcap:taskCompleteStatus>
+	<redcap:DataResolutionWorkflowEnabled>1</redcap:DataResolutionWorkflowEnabled>
+	<redcap:FieldCommentLogOptionEditDelete>1</redcap:FieldCommentLogOptionEditDelete>
+	<redcap:DataResolutionWorkflowHideClosedQueries>1</redcap:DataResolutionWorkflowHideClosedQueries>
+	<redcap:MyCapEnabled>0</redcap:MyCapEnabled>
+	<redcap:Purpose>4</redcap:Purpose>
+	<redcap:PurposeOther></redcap:PurposeOther>
+	<redcap:ProjectNotes></redcap:ProjectNotes>
+	<redcap:SurveyAuthEnabled>0</redcap:SurveyAuthEnabled>
+	<redcap:SurveyAuthField1></redcap:SurveyAuthField1>
+	<redcap:SurveyAuthEvent1></redcap:SurveyAuthEvent1>
+	<redcap:SurveyAuthField2></redcap:SurveyAuthField2>
+	<redcap:SurveyAuthEvent2></redcap:SurveyAuthEvent2>
+	<redcap:SurveyAuthField3></redcap:SurveyAuthField3>
+	<redcap:SurveyAuthEvent3></redcap:SurveyAuthEvent3>
+	<redcap:SurveyAuthMinFields></redcap:SurveyAuthMinFields>
+	<redcap:SurveyAuthApplyAllSurveys>1</redcap:SurveyAuthApplyAllSurveys>
+	<redcap:SurveyAuthCustomMessage></redcap:SurveyAuthCustomMessage>
+	<redcap:SurveyAuthFailLimit></redcap:SurveyAuthFailLimit>
+	<redcap:SurveyAuthFailWindow></redcap:SurveyAuthFailWindow>
+	<redcap:MissingDataCodes></redcap:MissingDataCodes>
+	<redcap:ProtectedEmailMode>0</redcap:ProtectedEmailMode>
+	<redcap:ProtectedEmailModeCustomText></redcap:ProtectedEmailModeCustomText>
+	<redcap:ProtectedEmailModeTrigger>ALL</redcap:ProtectedEmailModeTrigger>
+	<redcap:ProtectedEmailModeLogo></redcap:ProtectedEmailModeLogo>
+	<redcap:SurveysGroup>
+		<redcap:Surveys form_name="form_2" title="Form 2" instructions="&lt;p&gt;&lt;strong&gt;Please complete the survey below.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;" offline_instructions="" acknowledgement="&lt;p&gt;&lt;strong&gt;Thank you for taking the survey.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Have a nice day!&lt;/p&gt;" stop_action_acknowledgement="" stop_action_delete_response="0" question_by_section="0" display_page_number="0" question_auto_numbering="0" survey_enabled="1" save_and_return="0" save_and_return_code_bypass="0" logo="" hide_title="0" view_results="0" min_responses_view_results="10" check_diversity_view_results="0" end_survey_redirect_next_survey="0" end_survey_redirect_next_survey_logic="" end_survey_redirect_url="" survey_expiration="" promis_skip_question="0" survey_auth_enabled_single="0" edit_completed_response="0" hide_back_button="0" show_required_field_text="1" confirmation_email_subject="" confirmation_email_content="" confirmation_email_from="" confirmation_email_from_display="" confirmation_email_attach_pdf="0" confirmation_email_attachment="" text_to_speech="0" text_to_speech_language="en" theme="" text_size="1" font_family="16" custom_css="" theme_text_buttons="" theme_bg_page="" theme_text_title="" theme_bg_title="" theme_text_sectionheader="" theme_bg_sectionheader="" theme_text_question="" theme_bg_question="" enhanced_choices="0" repeat_survey_enabled="0" repeat_survey_btn_text="" repeat_survey_btn_location="BEFORE_SUBMIT" response_limit="" response_limit_include_partials="1" response_limit_custom_text="&lt;p&gt;Thank you for your interest; however, the survey is closed because the maximum number of responses has been reached.&lt;/p&gt;" survey_time_limit_days="" survey_time_limit_hours="" survey_time_limit_minutes="" email_participant_field="" end_of_survey_pdf_download="0" pdf_save_to_field="" pdf_save_to_event_id="" pdf_save_translated="0" pdf_auto_archive="0" pdf_econsent_version="" pdf_econsent_type="" pdf_econsent_firstname_field="" pdf_econsent_firstname_event_id="" pdf_econsent_lastname_field="" pdf_econsent_lastname_event_id="" pdf_econsent_dob_field="" pdf_econsent_dob_event_id="" pdf_econsent_allow_edit="0" pdf_econsent_signature_field1="" pdf_econsent_signature_field2="" pdf_econsent_signature_field3="" pdf_econsent_signature_field4="" pdf_econsent_signature_field5="" survey_width_percent="" survey_show_font_resize="1" survey_btn_text_prev_page="" survey_btn_text_next_page="" survey_btn_text_submit="" survey_btn_hide_submit="0" survey_btn_hide_submit_logic=""/>
+	</redcap:SurveysGroup>
+</GlobalVariables>
+<MetaDataVersion OID="Metadata.UnansweredEMTestProject_2026-10-30_1441" Name="Unanswered EM Test Project" redcap:RecordIdField="fof2">
+	<FormDef OID="Form.form_2" Name="Form 2" Repeating="No" redcap:FormName="form_2">
+		<ItemGroupRef ItemGroupOID="form_2.fof2" Mandatory="No"/>
+		<ItemGroupRef ItemGroupOID="form_2.form_2_complete" Mandatory="No"/>
+	</FormDef>
+	<ItemGroupDef OID="form_2.fof2" Name="Form 2" Repeating="No">
+		<ItemRef ItemOID="fof2" Mandatory="No" redcap:Variable="fof2"/>
+		<ItemRef ItemOID="f2_radio" Mandatory="No" redcap:Variable="f2_radio"/>
+		<ItemRef ItemOID="desc2" Mandatory="No" redcap:Variable="desc2"/>
+		<ItemRef ItemOID="f2_drop" Mandatory="No" redcap:Variable="f2_drop"/>
+		<ItemRef ItemOID="f2_check___1" Mandatory="Yes" redcap:Variable="f2_check"/>
+		<ItemRef ItemOID="f2_check___2" Mandatory="Yes" redcap:Variable="f2_check"/>
+		<ItemRef ItemOID="f2_check___3" Mandatory="Yes" redcap:Variable="f2_check"/>
+		<ItemRef ItemOID="f2_txt1" Mandatory="No" redcap:Variable="f2_txt1"/>
+		<ItemRef ItemOID="f2_txt2" Mandatory="No" redcap:Variable="f2_txt2"/>
+		<ItemRef ItemOID="f2_unansw" Mandatory="No" redcap:Variable="f2_unansw"/>
+		<ItemRef ItemOID="f2_unansw_2" Mandatory="No" redcap:Variable="f2_unansw_2"/>
+		<ItemRef ItemOID="sig" Mandatory="No" redcap:Variable="sig"/>
+		<ItemRef ItemOID="slider" Mandatory="No" redcap:Variable="slider"/>
+		<ItemRef ItemOID="notes" Mandatory="No" redcap:Variable="notes"/>
+		<ItemRef ItemOID="dialog" Mandatory="No" redcap:Variable="dialog"/>
+	</ItemGroupDef>
+	<ItemGroupDef OID="form_2.form_2_complete" Name="Form Status" Repeating="No">
+		<ItemRef ItemOID="form_2_complete" Mandatory="No" redcap:Variable="form_2_complete"/>
+	</ItemGroupDef>
+	<ItemDef OID="fof2" Name="fof2" DataType="text" Length="999" redcap:Variable="fof2" redcap:FieldType="text">
+		<Question><TranslatedText>Field on form 2</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="f2_radio" Name="f2_radio" DataType="text" Length="1" redcap:Variable="f2_radio" redcap:FieldType="radio">
+		<Question><TranslatedText>Radio</TranslatedText></Question>
+		<CodeListRef CodeListOID="f2_radio.choices"/>
+	</ItemDef>
+	<ItemDef OID="desc2" Name="desc2" DataType="text" Length="999" redcap:Variable="desc2" redcap:FieldType="descriptive" redcap:BranchingLogic="[f2_radio] = &#039;1&#039;">
+		<Question><TranslatedText>Show when field before = One</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="f2_drop" Name="f2_drop" DataType="text" Length="1" redcap:Variable="f2_drop" redcap:FieldType="select">
+		<Question><TranslatedText>Dropdown</TranslatedText></Question>
+		<CodeListRef CodeListOID="f2_drop.choices"/>
+	</ItemDef>
+	<ItemDef OID="f2_check___1" Name="f2_check___1" DataType="boolean" Length="1" redcap:Variable="f2_check" redcap:FieldType="checkbox" redcap:RequiredField="y">
+		<Question><TranslatedText>Check</TranslatedText></Question>
+		<CodeListRef CodeListOID="f2_check___1.choices"/>
+	</ItemDef>
+	<ItemDef OID="f2_check___2" Name="f2_check___2" DataType="boolean" Length="1" redcap:Variable="f2_check" redcap:FieldType="checkbox" redcap:RequiredField="y">
+		<Question><TranslatedText>Check</TranslatedText></Question>
+		<CodeListRef CodeListOID="f2_check___2.choices"/>
+	</ItemDef>
+	<ItemDef OID="f2_check___3" Name="f2_check___3" DataType="boolean" Length="1" redcap:Variable="f2_check" redcap:FieldType="checkbox" redcap:RequiredField="y">
+		<Question><TranslatedText>Check</TranslatedText></Question>
+		<CodeListRef CodeListOID="f2_check___3.choices"/>
+	</ItemDef>
+	<ItemDef OID="f2_txt1" Name="f2_txt1" DataType="text" Length="999" redcap:Variable="f2_txt1" redcap:FieldType="text">
+		<Question><TranslatedText>Embedded Text</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="f2_txt2" Name="f2_txt2" DataType="text" Length="999" redcap:Variable="f2_txt2" redcap:FieldType="text">
+		<Question><TranslatedText>Embedded Text</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="f2_unansw" Name="f2_unansw" DataType="integer" Length="999" redcap:Variable="f2_unansw" redcap:FieldType="text" redcap:TextValidationType="int" redcap:FieldAnnotation="@N-UNANSWERED
+@N-UNANSWERED-DIALOG=&quot;dialog&quot;
+@N-UNANSWERED-HIGHLIGHT-PROGRESSIVE">
+		<Question><TranslatedText>Unanswered</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="f2_unansw_2" Name="f2_unansw_2" DataType="integer" Length="999" redcap:Variable="f2_unansw_2" redcap:FieldType="text" redcap:TextValidationType="int" redcap:FieldAnnotation="@N-UNANSWERED=&quot;f2_check,f2_txt2&quot;">
+		<Question><TranslatedText>Unanswered 2 (f2_check and f2_txt2 only)</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="sig" Name="sig" DataType="text" Length="999" redcap:Variable="sig" redcap:FieldType="file" redcap:TextValidationType="signature">
+		<Question><TranslatedText>Signature</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="slider" Name="slider" DataType="integer" Length="999" redcap:Variable="slider" redcap:FieldType="slider" redcap:SliderLabels="" redcap:CustomAlignment="RH">
+		<Question><TranslatedText>Slider</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="notes" Name="notes" DataType="text" Length="999" redcap:Variable="notes" redcap:FieldType="textarea" redcap:CustomAlignment="RH">
+		<Question><TranslatedText>Notes</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="dialog" Name="dialog" DataType="text" Length="999" redcap:Variable="dialog" redcap:FieldType="descriptive" redcap:FieldAnnotation="@HIDDEN">
+		<Question><TranslatedText>{{title:Dialog Title}}{{cancel:Return}}{{continue:Continue}} There are [f2_unansw] unanswered fields.</TranslatedText><redcap:FormattedTranslatedText>&lt;div class=&quot;rich-text-field-label&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;{{title:&lt;/span&gt;Dial&lt;span style=&quot;font-weight: normal; color: #e03e2d;&quot;&gt;&lt;em&gt;o&lt;/em&gt;&lt;/span&gt;g Title&lt;span style=&quot;font-weight: normal;&quot;&gt;}}&lt;/span&gt;&lt;span style=&quot;font-weight: 400; background-color: var(--bs-body-bg); text-align: var(--bs-body-text-align);&quot;&gt;{{cancel:Return}}{{continue:Continue}}&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;There are [f2_unansw] unanswered fields.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</redcap:FormattedTranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="form_2_complete" Name="form_2_complete" DataType="text" Length="1" redcap:Variable="form_2_complete" redcap:FieldType="select" redcap:SectionHeader="Form Status">
+		<Question><TranslatedText>Complete?</TranslatedText></Question>
+		<CodeListRef CodeListOID="form_2_complete.choices"/>
+	</ItemDef>
+	<CodeList OID="f2_radio.choices" Name="f2_radio" DataType="text" redcap:Variable="f2_radio">
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>One</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="2"><Decode><TranslatedText>Two {f2_txt1}</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="3"><Decode><TranslatedText>Three</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+	<CodeList OID="f2_drop.choices" Name="f2_drop" DataType="text" redcap:Variable="f2_drop">
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>One</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="2"><Decode><TranslatedText>Two</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="3"><Decode><TranslatedText>Three</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+	<CodeList OID="f2_check___1.choices" Name="f2_check___1" DataType="boolean" redcap:Variable="f2_check" redcap:CheckboxChoices="1, One | 2, Two {f2_txt2} | 3, Three">
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>Checked</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="0"><Decode><TranslatedText>Unchecked</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+	<CodeList OID="f2_check___2.choices" Name="f2_check___2" DataType="boolean" redcap:Variable="f2_check" redcap:CheckboxChoices="1, One | 2, Two {f2_txt2} | 3, Three">
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>Checked</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="0"><Decode><TranslatedText>Unchecked</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+	<CodeList OID="f2_check___3.choices" Name="f2_check___3" DataType="boolean" redcap:Variable="f2_check" redcap:CheckboxChoices="1, One | 2, Two {f2_txt2} | 3, Three">
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>Checked</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="0"><Decode><TranslatedText>Unchecked</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+	<CodeList OID="form_2_complete.choices" Name="form_2_complete" DataType="text" redcap:Variable="form_2_complete">
+		<CodeListItem CodedValue="0"><Decode><TranslatedText>Incomplete</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>Unverified</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="2"><Decode><TranslatedText>Complete</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+</MetaDataVersion>
+</Study>
+</ODM>
